@@ -1,10 +1,8 @@
 <div align="center">
 
-<a href="https://bank.pietrzakadrian.com">
+<a href="/">
     <img src="https://raw.githubusercontent.com/pietrzakadrian/bank/1.1/.github/logo.png" align="center" height="auto" />
 </a>
-
-[**Live Preview**](https://bank.pietrzakadrian.com) | [**Swagger Documentation**](https://bank.pietrzakadrian.com/api-docs/) | [**Contact the developer**](mailto:contact@pietrzakadrian.com)
 
 </div>
 
@@ -46,7 +44,7 @@ Technology stack:
 3. **TypeORM**
 4. **MySQL** database
 5. **RESTful API** with **Basic** & **JWT Authentication**
-6. **[Swagger](http://bank.pietrzakadrian.com/api-docs/)** Documentation
+6. **Swagger** Documentation
 7. **Unit Testing** using **Mocha** and **Chai**
 
 <p align="center">
@@ -55,7 +53,7 @@ Technology stack:
 
 ## Requirements
 
-- **NodeJS** v8+
+- **NodeJS** v12+
 - **npm** v6+
 - **MySQL** v5.6+
 
